@@ -1,5 +1,5 @@
 ### Hey there, I'm Patrick! 👋 
-This readme is work in progress!
+This readme is work in progress! But I promise this will be completed soon..
 #### About me
 
 #### Tools & Languages
