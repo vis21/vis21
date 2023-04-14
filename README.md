@@ -1,8 +1,8 @@
 ### Hey there, I'm Patrick! 👋 
+This readme is work in progress!
+#### About me
 
-## About me
-
-## Tools & Languages
+#### Tools & Languages
 
 <!--
 **vis21/vis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
