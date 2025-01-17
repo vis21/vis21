@@ -1,6 +1,6 @@
 ### Hey there, I'm Patrick! 👋 
 #### About me
-I'm a DevOps Engineer with more or less 2 years of experience (over 4 in IT in overall) - still learning and growing but definitely enjoying the job and the challenges it brings. 
+I'm a DevOps Engineer with more or less 3 years of experience (over 5 in IT in overall) - still learning and growing but definitely enjoying the job and the challenges it brings. 
 
 What to expect here? Majority of my repositories are private as they're just for me to play around with new languages or technologies, although every now and then I do work on public repos and I'm planning to increase that activity over the next few months/years. 
 
